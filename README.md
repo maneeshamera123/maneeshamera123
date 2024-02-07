@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maneeshamera123 &label=Profile%20views&color=0e75b6&style=flat" alt="maneeshamera123" /> </p>
 
-- 🌱 I’m currently learning *DSA,MERN stack*
+- 🌱 I’m currently working on *DSA,MERN stack*
 
 - 🤝 I’m looking for help with *Web Development*
 
