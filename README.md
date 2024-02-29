@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maneeshamera123 &label=Profile%20views&color=0e75b6&style=flat" alt="maneeshamera123" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/](https://drive.google.com/file/d/1t7PM01AH5jK25pN68PGQ9MC2jUY_VjPz/view?usp=sharing)?username=maneeshamera123 &label=Profile%20views&color=0e75b6&style=flat" alt="maneeshamera123" /> </p>
 
 - 🌱 I’m currently working on *DSA,MERN stack*
 
