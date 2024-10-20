@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Maneesh Amera</h1>
 <h3 align="center">An aspiring software developer mainly using MERN stack from India</h3>
 
-- 🌱 I’m currently working on *DSA,MERN stack*
+- 🌱 I’m currently working as SDE @Advertalyst*
 
-- 🤝 I’m looking for help with *Web Development*
+- 🤝 I’m looking for help with *Full Stack Development*
 
 - 📫 How to reach me **manishamera1213@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18jBG6li5G5iidPzavZZ8ryGoxzz1LTIj/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/15WBcudwT9UTQtOFxDgDkr5M5IAL0G3U4/view?usp=sharing]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/maneesh-amera-6597ab237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maneeshamera123" height="30" width="40" /></a>
