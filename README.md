@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Maneesh Amera</h1>
-<h3 align="center">An aspiring software developer mainly using MERN stack from India</h3>
+<h3 align="center">An aspiring software developer from India mainly using MERN stack</h3>
 
 - 🌱 I’m currently working as SDE @Advertalyst*
 
