@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **manishamera1213@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1fobavvYeQUx367bs1anGvpP5oJr8cumv/view?usp=sharing]](https://drive.google.com/file/d/10Gm3yWGAgw0X4vgiNs0_hJ8T4YPdM_Gt/view?usp=sharing)
+- 📄 Know about my experiences [[[https://drive.google.com/file/d/1fobavvYeQUx367bs1anGvpP5oJr8cumv/view?usp=sharing]](https://drive.google.com/file/d/1JgM7lBUR7kq1HtRwdNt61rvI7RvO7xKT/view?usp=sharing)](https://drive.google.com/file/d/10Gm3yWGAgw0X4vgiNs0_hJ8T4YPdM_Gt/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/maneesh-amera-6597ab237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maneeshamera123" height="30" width="40" /></a>
