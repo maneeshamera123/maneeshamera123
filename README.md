@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently working as SDE @Advertalyst*
 
-- 🤝 I’m looking for help with *Full Stack Development*
-
 - 📫 How to reach me **manishamera1213@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Nt8vWYZhclO0rZI5nXSVz0mL9VekMF-W/view?usp=sharing]
