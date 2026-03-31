@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Maneesh Amera</h1>
-<h3 align="center">An aspiring software developer from India mainly using MERN stack</h3>
+<h3 align="center">Software Development Engineer with experience building scalable multi-tenant web platforms using React.js, Next.js,
+Node.js, and PostgreSQL. Strong in authorization systems, JWT auth, and cloud deployments.</h3>
 
 - 🌱 I’m currently working as SDE @Advertalyst*
 
