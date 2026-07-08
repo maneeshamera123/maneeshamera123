@@ -6,7 +6,7 @@ Node.js, and PostgreSQL. Strong in authorization systems, JWT auth, and cloud de
 
 - 📫 How to reach me **manishamera1213@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/116RHY7drt9nLAUKqB931I8bylNgQJNMr/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1OKn38jAJY03RfiAB3VYxVjethvcm_xyG/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/maneesh-amera-6597ab237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maneeshamera123" height="30" width="40" /></a>
