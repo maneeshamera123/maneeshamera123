@@ -2,7 +2,7 @@
 <h3 align="center">Software Development Engineer with experience building scalable web platforms using React.js, Next.js,
 Node.js, and PostgreSQL. Strong in authorization systems, Authentication, and cloud deployments.</h3>
 
-- 🌱 I’m currently working as SDE @Advertalyst*
+- 🌱 I’m currently working as SDE @FrontM*
 
 - 📫 How to reach me **maneeshamera1213@gmail.com**
 
